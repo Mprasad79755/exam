@@ -17,7 +17,8 @@ function AppContent() {
     const initializeApp = async () => {
       try {
         // Check for UID in localStorage
-        const uid = localStorage.getItem('skillup_exam_uid');
+        // const uid = localStorage.getItem('skillup_exam_uid');
+        const uid = 12345;
         if (!uid) {
           setError('UID not found. Use main site to launch exam.');
           setLoading(false);
