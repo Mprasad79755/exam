@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "title": "SkillUp Final Exam - Batch A",
+    "durationMinutes": 360,
+    "startAt": "2025-01-15T09:00:00+05:30",
+    "endAt": "2025-01-15T18:00:00+05:30"
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "question": "Which one is a primitive data type in JavaScript?",
+      "options": ["Object", "Array", "String", "Function"],
+      "marks": 1
+    },
+    {
+      "id": "q2", 
+      "type": "truefalse",
+      "question": "HTML stands for HyperText Markup Language.",
+      "marks": 1
+    },
+    {
+      "id": "q3",
+      "type": "text", 
+      "question": "Explain what an API is in 1-2 lines.",
+      "maxLength": 500,
+      "marks": 2
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "question": "What is the correct way to create a React component?",
+      "options": ["function Component() {}", "const Component = () => {}", "class Component extends React.Component {}", "All of the above"],
+      "marks": 1
+    },
+    {
+      "id": "q5",
+      "type": "truefalse",
+      "question": "CSS stands for Cascading Style Sheets.",
+      "marks": 1
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "question": "Describe the difference between let, const, and var in JavaScript.",
+      "maxLength": 300,
+      "marks": 3
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "question": "Which HTTP status code indicates 'Not Found'?",
+      "options": ["200", "404", "500", "301"],
+      "marks": 1
+    },
+    {
+      "id": "q8",
+      "type": "truefalse",
+      "question": "React hooks can only be used in class components.",
+      "marks": 1
+    },
+    {
+      "id": "q9",
+      "type": "text",
+      "question": "What are the benefits of using TypeScript over JavaScript?",
+      "maxLength": 400,
+      "marks": 3
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "question": "Which of the following is NOT a JavaScript framework?",
+      "options": ["React", "Angular", "Vue", "Laravel"],
+      "marks": 1
+    }
+  ]
+}
